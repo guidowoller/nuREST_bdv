@@ -3,14 +3,14 @@
 $nuLigaConfig = [
     'api' => [
         'base_url' => 'https://dartde-portal.liga.nu',
-        'client_id' => '<CLIENT_ID>',
-        'client_secret' => '<CLIENT_SECRET>'
+        'client_id' => '59fcbd74-5180-4ac7-b257-217042ff2999',
+        'client_secret' => 'ctcJtu*BqBkjMFB2ZJLg'
     ],
     'db' => [
-        'host' => '<DATABASE_HOST>',
-        'user' => '<DATABASE_USER>',
-        'password' => '<DATABASE_PASSWORD>',
-        'name' => '<DATABASE_NAME>'
+        'host' => 'db5006225884.hosting-data.io',
+        'user' => 'dbu747313',
+        'password' => 'portend-slogan-mermen-burnt',
+        'name' => 'dbs5202991'
     ]
 ];
 
