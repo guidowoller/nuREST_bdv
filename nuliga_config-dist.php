@@ -1,5 +1,7 @@
 <?php
 
+// Fill in your values and rename file to nuliga_config.php
+
 $nuLigaConfig = [
     'api' => [
         'base_url' => 'https://dartde-portal.liga.nu',
