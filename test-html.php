@@ -32,7 +32,7 @@ $clubs = $client->getClubs('BDV');
         </style>
     </head>
     <body>
-        <h1>Vereine im BDV</h1>
+        <h1 style="color: limegreen">Vereine im BDV</h1>
         <?php if (count($clubs) == 0) : ?>
             <h2>Es wurden keine Spieler gefunden.</h2>
         <?php else : ?>
