@@ -7,7 +7,7 @@ $client = new nuLigaClient($nuLigaConfig);
 $clubs = $client->getClubs('BDV');
 
 ?>
-<html>
+<html lang="de">
     <head>
         <title>Vereine im BDV</title>
         <style>
@@ -21,7 +21,8 @@ $clubs = $client->getClubs('BDV');
             }
 
             tbody tr:nth-child(odd) {
-                background: #eeeeee;
+                background: #005ea8;
+				color: #ffffff
             }
 
             td {
